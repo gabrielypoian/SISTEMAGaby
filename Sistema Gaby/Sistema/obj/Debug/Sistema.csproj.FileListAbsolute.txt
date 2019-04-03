@@ -1,0 +1,42 @@
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema\Sistema\bin\Debug\Sistema.exe
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema\Sistema\bin\Debug\Sistema.pdb
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema\Sistema\obj\Debug\Sistema.csprojAssemblyReference.cache
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema\Sistema\obj\Debug\Sistema.Form1.resources
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema\Sistema\obj\Debug\Sistema.exe
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema\Sistema\obj\Debug\Sistema.pdb
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema\Sistema\obj\Debug\Sistema.Menu.resources
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema\Sistema\obj\Debug\Sistema.CadastroClientes.resources
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema\Sistema\obj\Debug\Sistema.CadastroDeFuncionarios.resources
+C:\Users\Guilherme\Desktop\exercicios visual studio\Sistema\Sistema\obj\Debug\Sistema.CadastroDeProdutos.resources
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Sistema\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Sistema\Sistema\bin\Debug\Sistema.exe
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Sistema\Sistema\bin\Debug\Sistema.pdb
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Sistema\Sistema\obj\Debug\Sistema.csprojAssemblyReference.cache
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Sistema\Sistema\obj\Debug\Sistema.CadastroClientes.resources
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Sistema\Sistema\obj\Debug\Sistema.CadastroDeFuncionarios.resources
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Sistema\Sistema\obj\Debug\Sistema.CadastroDeProdutos.resources
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Sistema\Sistema\obj\Debug\Sistema.Form1.resources
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Sistema\Sistema\obj\Debug\Sistema.Menu.resources
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Sistema\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Sistema\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Sistema\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Sistema\Sistema\obj\Debug\Sistema.exe
+C:\Users\Guilherme\Desktop\Visual studio, html e git\exercicios visual studio\Sistema\Sistema\obj\Debug\Sistema.pdb
+C:\Users\Aluno\Desktop\Sistema Gaby\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\Aluno\Desktop\Sistema Gaby\Sistema\bin\Debug\Sistema.exe
+C:\Users\Aluno\Desktop\Sistema Gaby\Sistema\bin\Debug\Sistema.pdb
+C:\Users\Aluno\Desktop\Sistema Gaby\Sistema\obj\Debug\Sistema.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Sistema Gaby\Sistema\obj\Debug\Sistema.CadastroClientes.resources
+C:\Users\Aluno\Desktop\Sistema Gaby\Sistema\obj\Debug\Sistema.CadastroDeFuncionarios.resources
+C:\Users\Aluno\Desktop\Sistema Gaby\Sistema\obj\Debug\Sistema.CadastroDeProdutos.resources
+C:\Users\Aluno\Desktop\Sistema Gaby\Sistema\obj\Debug\Sistema.Form1.resources
+C:\Users\Aluno\Desktop\Sistema Gaby\Sistema\obj\Debug\Sistema.Menu.resources
+C:\Users\Aluno\Desktop\Sistema Gaby\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Sistema Gaby\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Sistema Gaby\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Sistema Gaby\Sistema\obj\Debug\Sistema.exe
+C:\Users\Aluno\Desktop\Sistema Gaby\Sistema\obj\Debug\Sistema.pdb
